@@ -16,7 +16,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
-
+/**
+ * 调用照相机拍照功能
+ * @author SJT
+ *
+ */
 public class MainActivity extends Activity {
 
 	private Button btn_photo;
